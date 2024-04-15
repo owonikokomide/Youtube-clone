@@ -4,7 +4,7 @@ const firebaseConfig = {
   authDomain: "clone-f680a.firebaseapp.com",
   projectId: "clone-f680a",
   storageBucket: "clone-f680a.appspot.com",
-  messagingSenderId: "719882828257",
+  messagingSenderId: "719882828257", 
   appId: "1:719882828257:web:2aa5653aa228d113fb3aa0",
   measurementId: "G-E96Z7GPH1C",
 };

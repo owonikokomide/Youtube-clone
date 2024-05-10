@@ -6,7 +6,7 @@ import Recommend from './Recommend';
 import { BrowserRouter, Routes, Route} from "react-router-dom";
 
 function App() {
-  return (
+  return ( 
     <div className="App">
      <BrowserRouter>
       <Routes>

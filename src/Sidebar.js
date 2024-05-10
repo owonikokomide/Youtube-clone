@@ -8,7 +8,7 @@ import VideoLibraryIcon from "@mui/icons-material/VideoLibrary";
 import HistoryIcon from "@mui/icons-material/History";
 import OndemandVideoIcon from "@mui/icons-material/OndemandVideo";
 import WatchLaterIcon from "@mui/icons-material/WatchLater";
-import ThumbUpAltIcon from "@mui/icons-material/ThumbUpAlt";
+import ThumbUpAltIcon from "@mui/icons-material/ThumbUpAlt"; 
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 
  

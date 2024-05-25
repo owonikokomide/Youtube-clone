@@ -3,7 +3,7 @@ import './Header.css';
 import MenuSharpIcon from "@mui/icons-material/MenuSharp"; 
 import SearchIcon from "@mui/icons-material/Search"; 
 import VideoCallIcon from "@mui/icons-material/VideoCall";
-import AppsIcon from "@mui/icons-material/Apps";
+import AppsIcon from "@mui/icons-material/Apps"; 
 import NotificationsIcon from "@mui/icons-material/Notifications";
 import AccountCircleSharpIcon from "@mui/icons-material/AccountCircleSharp";
 

@@ -12,7 +12,7 @@ function Header() {
     <div className="header">
       <div className="header__left">
         <MenuSharpIcon />
-        <img
+        <img 
           className="img"
           src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9A
         AAA81BMVEX////+AAAoKCgmJiYjIyMAAAD7AAAQEBD6+voYGBhNTU0TExORkZG5ubkHBwfIyM

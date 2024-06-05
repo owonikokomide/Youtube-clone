@@ -9,7 +9,7 @@ function Recommend() {
       <div className="recommend__videos">
         <Videos
           title="Become a software developer in 10mins | 2019/2022"
-          views="2.3M views"
+          views="2.3M views" 
           timestamp="3 days ago" 
           channelimage=""
           channel="Owonikoko Ayomide"

@@ -15,7 +15,7 @@ function App() {
         </Route>
       </Routes>
      </BrowserRouter>
-      <Header />
+      <Header /> 
       <div className="side">
         <Sidebar />
         <Recommend />
